@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/github/stars/anhduy1202/Youtube"/> <img src="https://img.shields.io/github/issues/anhduy1202/Youtube"/> ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anhduy1202/Youtube) 
 # NerdCard
-### website: https://nerdcardd.vercel.app
+### website: https://demotailwindweb.vercel.app/
 ## Screenshot:
 ![image](https://user-images.githubusercontent.com/58461444/179347756-ad112737-1c12-4e99-90b7-bb3911b7b9a7.png)
 
